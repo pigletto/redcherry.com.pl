@@ -1,6 +1,5 @@
-Thanks for downloading this theme!
+redcherry.com.pl webbsite
 
-Theme Name: Imperial
-Theme URL: https://bootstrapmade.com/imperial-free-onepage-bootstrap-theme/
+Created using Imperial Theme: https://bootstrapmade.com/imperial-free-onepage-bootstrap-theme/
 Author: BootstrapMade.com
 Author URL: https://bootstrapmade.com
